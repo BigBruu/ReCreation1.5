@@ -1,0 +1,8 @@
+data/mongodb/journal/WiredTigerLog.0000000001 filter=lfs diff=lfs merge=lfs -text
+data/mongodb/journal/WiredTigerPreplog.0000000001 filter=lfs diff=lfs merge=lfs -text
+data/mongodb/journal/WiredTigerPreplog.0000000002 filter=lfs diff=lfs merge=lfs -text
+data/mongodb/journal/WiredTigerLog.0000000002 filter=lfs diff=lfs merge=lfs -text
+data/mongodb/journal/WiredTigerLog.0000000003 filter=lfs diff=lfs merge=lfs -text
+data/mongodb/journal/WiredTigerLog.0000000007 filter=lfs diff=lfs merge=lfs -text
+data/mongodb/journal/WiredTigerLog.0000000012 filter=lfs diff=lfs merge=lfs -text
+data/mongodb/journal/WiredTigerLog.0000000015 filter=lfs diff=lfs merge=lfs -text
